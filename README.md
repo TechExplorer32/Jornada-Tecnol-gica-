@@ -6,11 +6,12 @@ Após uma trajetória no suporte de TI, aos 32 anos, estou retornando às raíze
 
 ## Tecnologias que Estou Estudando 🚀
 
-- **HTML5** 🌐
-- **CSS3** 🎨
-- **JavaScript** 🚀
-- **React** ⚛️
-- **Node.js** 🛠️
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+<img src=" https://icons8.com/icon/YjeKwnSQIBUq/css3.svg" width="50px">
+<img src=" https://icons8.com/icon/PXTY4q2Sq2lG/javascript.svg" width="50px">
+<img src=" https://icons8.com/icon/PXTY4q2Sq2lG/javascript.svg" width="50px">
+
+
 
 ## Minha História 📖
 
