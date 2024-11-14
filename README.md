@@ -1,22 +1,27 @@
-# Bem-vindo à Minha Jornada Tecnológica! 👋
+# Bem-vindo ao Meu Perfil! 👋
 
-Após uma trajetória no suporte de TI, aos 32 anos, estou retornando às raízes. Mergulhando no front-end com HTML5, CSS3, JavaScript, e explorando o back-end com Node.js. É um recomeço, mas estou determinado a seguir minha verdadeira paixão.
+Sou formado em Técnico em Informática e trabalhei com hardware boa parte da minha vida. Agora, estou me dedicando aos estudos para me tornar um desenvolvedor Python e, no futuro, um analista de dados.
 
 ## Tecnologias que Estou Estudando 🚀
 
-- HTML5: <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" />
-- CSS3: <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" />
-- JavaScript: <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
-- React: <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" />
-- Node.js: <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" />
+- **Python**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" />
+- **HTML5** (para uso com Flask ou Django): <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" />
+- **CSS3** (para uso com Flask ou Django): <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" />
+- **JavaScript** (para uso com Flask ou Django): <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
 
 ## Minha História 📖
 
-Aos 14 anos, tive meu primeiro contato com a tecnologia, e foi amor à primeira vista. Rapidamente me vi fascinado pelas possibilidades que ela oferecia. Não demorou muito para que eu começasse a explorar o mundo dos scripts, brincando com o DOS para surpreender e divertir meus amigos. Naquela época, eram apenas pequenas travessuras, como apagar arquivos ou abrir várias janelas, mas foi o suficiente para despertar minha paixão pela programação.
-Aos 16 anos, tudo mudou. Foi quando descobri a verdadeira força da programação ao conhecer o Delphi. As possibilidades eram infinitas, e as brincadeiras com "cheats" no antigo Priston Tale se tornaram lendárias entre amigos. Aquela experiência foi um marco, e eu sabia que a programação seria parte fundamental da minha vida.
-Com o passar dos anos, ingressei no curso técnico de informática, onde mergulhei ainda mais fundo nesse universo. Foi lá que me apaixonei pela linguagem C#, e por muito tempo me dediquei a estudá-la e criar pequenos programas com essa tecnologia.
-No entanto, como muitos de nós, a vida me levou por caminhos inesperados. Por necessidade, trabalhei a maior parte dos meus anos como suporte de TI. Ainda assim, a chama da paixão pela programação nunca se apagou.
-Aos 32 anos, estou determinado a retomar o rumo que sempre me cativou. Estou mergulhando de cabeça no estudo do front-end, explorando HTML5, CSS3, JavaScript e TypeScript, ao mesmo tempo em que me aventuro no mundo do back-end com o Node.js. É um recomeço, um retorno às raízes, e estou determinado a seguir minha verdadeira paixão.
-Essa é a minha história, uma jornada de altos e baixos, mas sempre impulsionada pela paixão pela tecnologia e pela programação. Estou ansioso para o que o futuro reserva, confiante de que estou no caminho certo para realizar meus sonhos.
+Desde jovem, sempre fui apaixonado por tecnologia. Aos 16 anos, comecei a explorar o mundo dos scripts e rapidamente me vi fascinado pelas possibilidades oferecidas. Trabalhei com hardware por muitos anos, adquirindo uma sólida base de conhecimento técnico.
 
-Vamos codificar juntos! 💻✨
+Hoje, aos 32 anos, decidi voltar às minhas raízes e seguir minha verdadeira paixão: a programação. Estou estudando intensivamente para me tornar um desenvolvedor Python, focando em back-end e frameworks como Flask e Django para construir aplicações web robustas. Além disso, estou me preparando para o futuro como analista de dados.
+
+## Objetivos Profissionais 🎯
+
+- Desenvolvedor Python
+- Analista de Dados
+
+Estou entusiasmado com o futuro e confiante de que estou no caminho certo para alcançar meus sonhos. Vamos codificar juntos e transformar ideias em realidade! 💻✨
+
+---
+
+Espero que isso ajude a criar um perfil atraente e informativo no GitHub! Se precisar de mais alguma coisa, estou aqui para ajudar! 😊🚀✨
